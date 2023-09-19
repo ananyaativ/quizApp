@@ -13,7 +13,7 @@ public class App {
     public static void main(String[] args) {
         // Set ChatGPT endpoint and API key
         String endpoint = "https://api.openai.com/v1/chat/completions";
-        String apiKey = "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";
+        String apiKey = "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";
 
         // Prompt user for input string
         try {
